@@ -1,12 +1,12 @@
-const fs = require('fs')
+MIconst fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "254742710486"
-global.ownername = "Ashali renson"
+global.ownernumber =  "233592474248"
+global.ownername = "Alswell Otabil"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Kenya"
+global.location = "Ghana"
 
 global.ownername = 'Ayush' //owner name
 global.botname = 'GOLD-KING' //name of the bot
